@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "nodejs01",
+  "description": "practice node js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayChandlani/nodejs01.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "jay chandlani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayChandlani/nodejs01/issues"
+  },
+  "homepage": "https://github.com/JayChandlani/nodejs01#readme"
+}

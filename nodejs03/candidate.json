@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63b3c2b60716c9edba482eb8"
+  },
+  "name": "jay Chandlani",
+  "age": 21,
+  "skills": [
+    "java",
+    "javascript"
+  ]
+},{
+  "_id": {
+    "$oid": "63b3c2b60716c9edba482eb9"
+  },
+  "name": "mukesh",
+  "age": 32,
+  "skills": [
+    "java",
+    "python"
+  ]
+}]
